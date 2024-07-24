@@ -2,6 +2,6 @@
 a = int(input("enter the number: "))
 i = 2
 while i<a:
-    if
+    # if
 
 # cant do it
