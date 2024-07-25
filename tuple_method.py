@@ -7,3 +7,4 @@ print(tup1.count(3))
 print(tup1.index(3))
 print(tup1.index(3,1,4)) # will find index of 3 between the index 1 and 4
 # can also use len method
+# trying pychrm push
