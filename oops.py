@@ -5,7 +5,7 @@ harry filled the form---->now harry's form----object
 sayan filled the form----->now sayan's form----object
 karan filled the form-----> now karan's form-----object
 '''
-
+# creating class
 class Person:
     name = 'Sayan'
     occupation = 'data scientist'
@@ -18,3 +18,4 @@ a.name = 'Sakshar'
 a.occupation = 'doctor'
 # print(a.name, a.occupation)
 a.info()
+
